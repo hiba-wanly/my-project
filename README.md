@@ -2,4 +2,4 @@
 for my pro
 
 
-## pro notes
+## project notes
